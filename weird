@@ -178,7 +178,7 @@
     left: 7px;
     width: 17px;
     height: 16px;
-    border-left: 1px solid #110b00;
+    border-left: 1px solid #00CCCC;
     -webkit-transform: rotate(-7deg);
     -ms-transform: rotate(-7deg);
     transform: rotate(-7deg);
@@ -190,7 +190,7 @@
     left: 9px;
     width: 20px;
     height: 16px;
-    border-left: 1px solid #110b00;
+    border-left: 1px solid #00CCCC;
     -webkit-transform: rotate(-8deg);
     -ms-transform: rotate(-8deg);
     transform: rotate(-8deg);
@@ -202,7 +202,7 @@
     left: 11px;
     width: 28px;
     height: 31px;
-    border-left: 1px solid #110b00;
+    border-left: 1px solid #00CCCC;
     -webkit-transform: rotate(2deg);
     -ms-transform: rotate(2deg);
     transform: rotate(2deg);
@@ -214,8 +214,8 @@
     left: 10px;
     width: 27px;
     height: 8px;
-    border-left: 1px solid #110b00;
-    border-right: 1px solid #110b00;
+    border-left: 1px solid #00CCCC;
+    border-right: 1px solid #00CCCC;
     -webkit-transform: rotate(6deg);
     -ms-transform: rotate(6deg);
     transform: rotate(6deg);
@@ -227,7 +227,7 @@
     left: 19px;
     width: 50px;
     height: 37px;
-    border-right: 1px solid #000000;
+    border-right: 1px solid #00CCCC;
     -webkit-transform: rotate(-2deg);
     -ms-transform: rotate(-2deg);
     transform: rotate(-2deg);
@@ -250,7 +250,7 @@
     left: 24px;
     width: 50px;
     height: 27px;
-    border-right: 1px solid #000000;
+    border-right: 1px solid #00CCCC;
     -webkit-transform: rotate(-8deg);
     -ms-transform: rotate(-8deg);
     transform: rotate(-8deg);
@@ -276,7 +276,7 @@
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
-    border-top: 1px solid #110b00;
+    border-top: 1px solid #00CCCC;
     -webkit-transform: rotate(-21deg);
     -ms-transform: rotate(-21deg);
     transform: rotate(-21deg);
@@ -291,7 +291,7 @@
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
-    border-top: 1px solid #110b00;
+    border-top: 1px solid #00CCCC;
     -webkit-transform: rotate(-109deg);
     -ms-transform: rotate(-109deg);
     transform: rotate(-109deg);
@@ -325,7 +325,7 @@
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
-    background: #ffffff;
+    background: #00ffff;
     overflow: hidden;
 }
 
@@ -338,7 +338,7 @@
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
-    background: #110b00;
+    background: #D00000 ;
 }
 
 #bart .head .right-eye .eyelid-top
@@ -347,7 +347,7 @@
     left: 0px;
     width: 30px;
     height: 17px;
-    border-bottom: 1px solid #110b00;
+    border-bottom: 1px solid #D00000 ;
     border-radius: 50% 50% 0 0;
     
     -webkit-animation-name: bartrighteyelidtop;
@@ -370,7 +370,7 @@
     left: 0px;
     width: 30px;
     height: 10px;
-    border-top: 1px solid #110b00;
+    border-top: 1px solid #D00000 ;
     border-radius: 0 0 50% 50%;
     
     -webkit-animation-name: bartrighteyelidbottom;
@@ -428,7 +428,7 @@
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
-    background: #ffffff;
+    background: #00ffff;
     overflow: hidden;
 }
 
@@ -450,7 +450,7 @@
     left: 0px;
     width: 30px;
     height: 20px;
-    border-bottom: 1px solid #110b00;
+    border-bottom: 1px solid #D00000 ;
     border-radius: 50% 50% 0 0;
     
     -webkit-animation-name: bartlefteyelidtop;
@@ -473,7 +473,7 @@
     left: 0px;
     width: 30px;
     height: 10px;
-    border-top: 1px solid #110b00;
+    border-top: 1px solid #D00000 ;
     border-radius: 0 0 50% 50%;
     
     -webkit-animation-name: bartlefteyelidbottom;
